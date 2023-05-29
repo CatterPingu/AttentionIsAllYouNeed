@@ -7,7 +7,7 @@ Please note that this implementation has not been reproduced on my system due to
 
 ## Contents
 
-- `transformer.ipynb`: Jupyter Notebook containing the implementation of the Transformer model.
+- `Discovering_the_Transformer_Paper.ipynb`: Jupyter Notebook containing the implementation of the Transformer model.
 
 ## Dependencies
 
